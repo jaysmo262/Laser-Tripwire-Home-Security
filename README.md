@@ -20,3 +20,8 @@ A laser continuously shines into the photoresistor. The photoresistor monitors t
 -Wireless communication
 -Battery Backup
 -Keypad arm/disarm system
+## Images
+![buzzer](buzzer image)
+![laser](laser image)
+![photoresistor](photoresistor image)
+

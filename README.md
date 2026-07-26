@@ -23,5 +23,5 @@ A laser continuously shines into the photoresistor. The photoresistor monitors t
 ## Images
 ![buzzer](Buzzer Image.jpeg)
 ![laser](laser image.jpeg)
-![photoresistor](photoresistor.jpeg)
+![photoresistor](Photoresistor.jpeg)
 

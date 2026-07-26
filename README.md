@@ -21,7 +21,7 @@ A laser continuously shines into the photoresistor. The photoresistor monitors t
 -Battery Backup
 -Keypad arm/disarm system
 ## Images
-![buzzer](buzzer image.jpeg)
+![buzzer](Buzzer Image.jpeg)
 ![laser](laser image.jpeg)
 ![photoresistor](photoresistor.jpeg)
 

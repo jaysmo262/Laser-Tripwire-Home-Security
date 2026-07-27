@@ -8,3 +8,4 @@ along with LCD display showing safety system status, there is potentiometer to a
 -Potentiometer
 -flat piece of plastic with tape (for laser/photoresistor upgrade)
 ![upgraded laser](IMG_7476.jpeg)
+![LCD display](IMG_7477.jpeg)

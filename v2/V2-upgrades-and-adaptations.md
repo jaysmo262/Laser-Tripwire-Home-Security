@@ -7,3 +7,4 @@ along with LCD display showing safety system status, there is potentiometer to a
 -LCD 1602 module (with 16 pins)
 -Potentiometer
 -flat piece of plastic with tape (for laser/photoresistor upgrade)
+![upgraded laser](IMG_7476.jpeg)

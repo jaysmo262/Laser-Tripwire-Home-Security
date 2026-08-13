@@ -6,3 +6,7 @@ This upgrade brought a complete rewire of the entire system, which now has much 
 ## New Modules Added
 -ESP32 microcontroller
 -Local Web-Page displaying system status
+
+![webpagesafe](image1.jpeg)
+![webpageunsafe](image0(1).png)
+![circuit](image2.png)
